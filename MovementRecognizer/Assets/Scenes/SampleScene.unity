@@ -4734,6 +4734,8 @@ MonoBehaviour:
   newPositionThresholdDistance: 0.05
   debugCubePrefab: {fileID: 8161012017967107690, guid: 7ded54565f191fc4287d095014c1a1b2,
     type: 3}
+  creationMode: 1
+  newGestureName: 
 --- !u!4 &2098945397
 Transform:
   m_ObjectHideFlags: 0
